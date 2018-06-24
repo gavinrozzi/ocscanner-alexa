@@ -19,7 +19,7 @@ const LaunchRequestHandler = {
     let reprompt;
 
     if (!playbackInfo.hasPreviousPlaybackSession) {
-      message = 'Welcome to the AWS Podcast. you can ask to play the audio to begin the podcast.';
+      message = 'Welcome to Ocean County Scanner you can ask to play the audio to begin the podcast.';
       reprompt = 'You can say, play the audio, to begin.';
     } else {
       playbackInfo.inPlaybackSession = false;

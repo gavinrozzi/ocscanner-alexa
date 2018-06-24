@@ -3,95 +3,95 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to Ocean County Scanner, less bla bla bla, more la la la.",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa, open Ocean County Scanner",
+            "Alexa, play Ocean County Scanner",
+            "Alexa, ask Ocean County Scanner to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "Ocean County Scanner",
+          "description": "Listen to Ocean County Scanner, with less bla bla bla, and more la la la.\n\nOcean County Scanner provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch Ocean County Scanner\" or \"Alexa, play Ocean County Scanner\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-GB": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to Ocean County Scanner, less bla bla bla, more la la la.",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa, open Ocean County Scanner",
+            "Alexa, play Ocean County Scanner",
+            "Alexa, ask Ocean County Scanner to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "Ocean County Scanner",
+          "description": "Listen to Ocean County Scanner, with less bla bla bla, and more la la la.\n\nOcean County Scanner provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch Ocean County Scanner\" or \"Alexa, play Ocean County Scanner\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-IN": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to Ocean County Scanner, less bla bla bla, more la la la.",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa, open Ocean County Scanner",
+            "Alexa, play Ocean County Scanner",
+            "Alexa, ask Ocean County Scanner to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "Ocean County Scanner",
+          "description": "Listen to Ocean County Scanner, with less bla bla bla, and more la la la.\n\nOcean County Scanner provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch Ocean County Scanner\" or \"Alexa, play Ocean County Scanner\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-CA": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to Ocean County Scanner, less bla bla bla, more la la la.",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa, open Ocean County Scanner",
+            "Alexa, play Ocean County Scanner",
+            "Alexa, ask Ocean County Scanner to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "Ocean County Scanner",
+          "description": "Listen to Ocean County Scanner, with less bla bla bla, and more la la la.\n\nOcean County Scanner provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch Ocean County Scanner\" or \"Alexa, play Ocean County Scanner\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "en-AU": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Listen to Ocean County Scanner, less bla bla bla, more la la la.",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa, open Ocean County Scanner",
+            "Alexa, play Ocean County Scanner",
+            "Alexa, ask Ocean County Scanner to play"
           ],
           "keywords": [
             "music",
             "streaming",
             "radio"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "name": "Ocean County Scanner",
+          "description": "Listen to Ocean County Scanner, with less bla bla bla, and more la la la.\n\nOcean County Scanner provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch Ocean County Scanner\" or \"Alexa, play Ocean County Scanner\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
           "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
           "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
         },
         "fr-FR": {
           "summary": "Ecoutez Ma Radio, moins de bla bla, plus de la la la.",
           "examplePhrases": [
-            "Alexa, ouvre My Radio",
-            "Alexa, lance My Radio",
+            "Alexa, ouvre Ocean County Scanner",
+            "Alexa, lance Ocean County Scanner",
             "Alexa, demande à Ma Radio de démarrer"
           ],
           "keywords": [
