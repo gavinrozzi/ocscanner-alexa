@@ -1,7 +1,7 @@
 /* CONSTANTS */
 
 exports.skill = {
-  appId: 'amzn1.ask.skill.854c0b91-2962-47a4-99a3-b67690eccfbb',
+  appId: 'amzn1.ask.skill.2088c4ee-94f3-4dee-b570-c444dce8f4ce',
   dynamoDBTableName: 'ocscanner-alexa',
 };
 
